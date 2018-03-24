@@ -1,0 +1,40 @@
+.common_style{
+    border:2px solid black;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+.header{
+    height:100px;
+}
+.wrapper{
+    margin:0 50px;
+}
+.slider{
+    height:270px;
+    border-radius:40px;
+}
+.oval{
+    height:170px;
+    width:150px;
+    border-radius:65%;
+}
+.circle{
+    height:165px;
+    width:165px;
+    border-radius:50%;
+}
+.box{
+    height:120px;
+    width:180px;
+}
+.section{
+    height:200px;
+}
+.foot1{
+    height:220px;
+    width:160px;
+}
+.foot2{
+    height:110px;
+    margin:0 20px;
+}
